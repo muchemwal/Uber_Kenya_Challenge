@@ -1,4 +1,4 @@
-# Challenge qit==with model generated on AWS Sagemaker
+# Challenge with model generated on AWS Sagemaker
 
 Uber Nairobi Ambulance Perambulation Challenge
 
