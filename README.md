@@ -7,4 +7,4 @@ https://zindi.africa/competitions/uber-nairobi-ambulance-perambulation-challenge
 Data could be uploaded from https://zindi.africa/competitions/uber-nairobi-ambulance-perambulation-challenge/data
 
 
-![image](create_experiment.JPG)
+![image](images/create_experiment.JPG)
